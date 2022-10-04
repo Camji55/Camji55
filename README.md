@@ -1,3 +1,3 @@
 ### Welcome 👋
 
-I'm currently working on iOS [@OneDrop](https://onedrop.today) as well as building software for [@Astranno](https://astranno.com) (prev. [@Weedmaps](https://weedmaps.com)).
+I'm currently working on iOS and building software for [@Astranno](https://astranno.com) (prev. [@OneDrop](https://onedrop.today) & [@Weedmaps](https://weedmaps.com)).
